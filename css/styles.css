@@ -7,8 +7,8 @@
 }
 body {
   font-family: "Roboto", sans-serif;
-  background-color: var(--color-white);
   color: var(--color-paragraf);
+  background-color: var(--color-white);
 }
 .link {
   text-decoration: none;
