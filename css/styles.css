@@ -65,7 +65,7 @@ body {
 }
 
 .adress{
-  color: var(--color-p-body)
+  color: var(--color-p-body);
   font-family: Roboto;
   font-size: 16px;
   font-style: normal;
