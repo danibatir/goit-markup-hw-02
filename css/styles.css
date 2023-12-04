@@ -64,7 +64,7 @@ body {
   font-style: normal;
 }
 
-.adress
+.adress{
   color: var(--color-p-body)
   font-family: Roboto;
   font-size: 16px;
@@ -72,6 +72,8 @@ body {
   font-weight: 400;
   line-height: 150%;
   letter-spacing: 0.32px;
+}
+  
 }
 .button {
   color: var(--color-text);
