@@ -144,3 +144,27 @@ body {
 .font {
   font-style: normal;
 }
+.title-web-studio {
+  color: #fff;
+  text-align: center;
+  font-size: 56px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 107.143%;
+  letter-spacing: 1.12px;
+}
+.footer {
+  background-color: var(--color-titles-body);
+}
+.subtitle-web-studio-blue {
+  color: var(--color-titles-body);
+  background-color: #ffffffff;
+  text-align: center;
+  font-size: 36px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 111.111%;
+  letter-spacing: 0.72px;
+  text-transform: capitalize;
+  line-height: 1.11;
+}
