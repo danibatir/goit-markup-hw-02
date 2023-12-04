@@ -12,7 +12,6 @@ body {
 }
 .link {
   text-decoration: none;
-  color: var(--color-paragraf);
 }
 
 .list {
@@ -21,8 +20,6 @@ body {
 
 .title-three {
   color: var(--color-titles);
-
-  font-family: Roboto;
   font-size: 20px;
   font-style: normal;
   font-weight: 500;
@@ -31,9 +28,6 @@ body {
 }
 .title-two {
   color: var(--color-titles);
-  text-align: center;
-
-  font-family: Roboto;
   font-size: 36px;
   font-style: normal;
   font-weight: 700;
@@ -44,8 +38,6 @@ body {
 .title-one {
   color: var(--color-white);
   text-align: center;
-
-  font-family: Roboto;
   font-size: 56px;
   font-style: normal;
   font-weight: 700;
@@ -55,7 +47,6 @@ body {
 .paragraf {
   color: var(--color-paragraf);
 
-  font-family: Roboto;
   font-size: 16px;
   font-style: normal;
   font-weight: 400;
@@ -63,23 +54,26 @@ body {
   letter-spacing: 0.32px;
 }
 .button {
-  color: var(--color-white);
-  text-align: center;
-  font-family: Roboto;
+  color: var(--color-text);
+  font-family: "Roboto", sans-serif;
+  background-color: var(--color-light);
   font-size: 16px;
   font-style: normal;
   font-weight: 500;
   line-height: 150%;
   letter-spacing: 0.64px;
+  cursor: pointer;
 }
 .button-service {
-  color: var(--color-white);
-  font-family: Roboto;
+  font-family: "Roboto", sans-serif;
+  color: #fff;
   font-size: 16px;
   font-style: normal;
   font-weight: 500;
   line-height: 150%;
   letter-spacing: 0.64px;
+  background-color: var(--color-text);
+  cursor: pointer;
 }
 .nav {
   color: var(--color-titles);
@@ -144,20 +138,11 @@ body {
 .font {
   font-style: normal;
 }
-.title-web-studio {
-  color: #fff;
-  text-align: center;
-  font-size: 56px;
-  font-style: normal;
-  font-weight: 700;
-  line-height: 107.143%;
-  letter-spacing: 1.12px;
-}
 .footer {
-  background-color: var(--color-titles-body);
+  background-color: var(--color-titles);
 }
 .subtitle-web-studio-blue {
-  color: var(--color-titles-body);
+  color: var(--color-titles);
   background-color: #ffffffff;
   text-align: center;
   font-size: 36px;
