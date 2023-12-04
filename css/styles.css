@@ -73,8 +73,6 @@ body {
   line-height: 150%;
   letter-spacing: 0.32px;
 }
-  
-}
 .button {
   color: var(--color-text);
   font-family: "Roboto", sans-serif;
